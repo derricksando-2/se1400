@@ -1,7 +1,4 @@
-
-
-
-h1{
+span is an in like block hat allow you to giving style ot a ::-webkit-meter-even-less-good-value div is block h1 {
     background-color: lightseagreen;
     color: white;
     line-hight: 1.5rem;
@@ -9,9 +6,21 @@ h1{
     font-family: arial;
     font-weight: bold;
     text-align: center;
-
+    display: inline or block, inlinebock padding
 }
 
-*{
-    
+* {}
+
+class is a .classname ID is a # header h1 main h1 header>h1 - direct child idsplay navli {
+    display: inline-block;
+    margin: 0
 }
+
+na lia {
+    padding: 10px 20px;
+    back-color: coral;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav li a:hover {}

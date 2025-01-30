@@ -1,0 +1,62 @@
+/*
+
+JPG
++lost of colors 16.7 millions colors
++compressed
+-Lossy(lose stuff) Lossless(donesnt loose stuff) 
+-compression artifacts
+-no transparcies
+
+GIF
++lossless
++allow animations
++transparcies, goes with anything
+-256 collor(not enough)
+-High fly space
+
+PNG
++Lossless
++tramsparcies
++16.7 million colors
+-large file size
+
+
+
+WEBP
++Lossless and lossy
++animations
++transparency
++16.7 million colors
+-not supported by all browers
+-not supported by all image editing software
+
+SVG
+Lossless
+SVG = slaebale vector graphic,
++scalable
++small file size
++transparency 
++annimation
+-Can't do complext images 
+
+
+
+*/
+
+
+
+
+
+
+css
+main h1 {
+    border-style: 5px 10px 15px 20px; North,Eest,South,West
+    border-color: ;
+    padding: ;
+}
+think of it as going all around
+4-North,Eest,South,West
+3-
+2-
+1-
+
