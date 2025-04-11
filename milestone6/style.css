@@ -298,7 +298,7 @@ label {
         grid-template-columns: minmax(0, 1fr) minmax(0, 768px) minmax(0, 1fr);
     }
 
-    #frame7, #frame8, #frame9, #frame11, #footer {
+    #frame7, #frame8, #frame9, #frame11, #frame12, #frame13, #frame14 #footer {
         grid-column: 2/3;
     }
 
@@ -336,7 +336,7 @@ label {
         padding: 0;
     }
 
-    #frame7, #frame8, #frame9, #frame11, #footer {
+    #frame7, #frame8, #frame9, #frame11,#frame12,#frame13, #frame14, #footer {
         grid-column: 1/-1;
     }
 
@@ -359,6 +359,22 @@ label {
 
     .service-grid {
         grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 0 10px;
+    }
+
+    .service-item {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .service-item img {
+        width: 100%;
+        height: auto;
+    }
+
+    .service-item h3 {
+        margin-top: 10px;
     }
 
     frame11 {
